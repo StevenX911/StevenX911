@@ -8,8 +8,6 @@
 
 > ![else公众号](https://www.tripfe.cn/content/images/2020/10/else.jpg)
 
-> 以上求关注
-
 
 <!--
 **StevenX911/StevenX911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
