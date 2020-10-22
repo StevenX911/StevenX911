@@ -1,6 +1,12 @@
 ### Hi I'm Steven 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StevenX911)](https://github.com/StevenX911/github-readme-stats)
+目前在做前端相关的工作，如果你有什么前端问题，我们可以一起探讨！欢迎issue留言！如果你觉得我对你有些帮助，给个Star✨吧
+
+- 知乎主页：https://www.zhihu.com/people/StevenX911
+- 思否主页：https://segmentfault.com/u/wgyngbh
+- 掘金主页：https://juejin.im/user/2612095357817640
+
+> 以上求关注
 
 <!--
 **StevenX911/StevenX911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
