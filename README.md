@@ -5,6 +5,7 @@
 - 知乎主页：https://www.zhihu.com/people/StevenX911
 - 思否主页：https://segmentfault.com/u/wgyngbh
 - 掘金主页：https://juejin.im/user/2612095357817640
+- 个人小站: https://www.tripfe.cn —— 年久失修
 
 > 以上求关注
 
