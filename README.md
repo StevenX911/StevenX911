@@ -8,7 +8,7 @@
 
 个人博客: https://www.tripfe.cn
 
-微信公众号：风清洋
+微信公众号：[风清洋](https://www.tripfe.cn/about-me/)
 
 <!--
 **StevenX911/StevenX911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
