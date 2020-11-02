@@ -1,12 +1,10 @@
 ### Hi I'm Steven-风清洋 👋
 
-一个爱C++的前端攻城狮🦁️！
-
-目前在做前端相关的工作，如果你有什么前端问题，我们可以一起探讨！
-
-欢迎issue留言！如果觉得对你有些帮助，给个Star✨吧
+一枚前端攻城狮🦁️！
 
 个人博客: https://www.tripfe.cn
+
+掘金主页：https://juejin.im/user/2612095357817640
 
 微信公众号：[风清洋](https://www.tripfe.cn/about-me/)
 
