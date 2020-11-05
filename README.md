@@ -1,10 +1,6 @@
 ### Hi I'm Steven-风清洋 👋
 
-一枚前端攻城狮🦁️！
-
 个人博客: https://www.tripfe.cn
-
-掘金主页：https://juejin.im/user/2612095357817640
 
 微信公众号：[风清洋](https://www.tripfe.cn/about-me/)
 
