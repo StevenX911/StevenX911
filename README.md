@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Trip.com Group
 - 🌱 I’m currently learning Javascript
-- 🎮 I'm currently playing *连连看消消乐*
+- 🎮 I'm currently playing *王者荣耀*
 - 📫 How to reach me: wyngbh@gmail.com
 
 <!--
