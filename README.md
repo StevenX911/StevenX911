@@ -1,11 +1,22 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=StevenX911&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Steven-风清洋 👋
+### Steven Wang 👋
 
 - 🔭 I’m currently working on Trip.com Group
 - 🌱 I’m currently learning Javascript
 - 🎮 I'm currently playing *王者荣耀*
 - 📫 How to reach me: wyngbh@gmail.com
+
+### Write often and remember often
+
+| I/O operation             | CPU ticks    |
+| --------------------- | ----------------- |
+| CPU register            | 3 ticks           |
+| L1 Cache             | 8 ticks           |
+| L2 Cache            | 12 ticks          |
+| RAM                | 150 ticks         |
+| Disk                 | 30,000,000 ticks  |
+| Network          | 250,000,000 ticks |
 
 <!--
 ### Hi I'm Steven-风清洋 👋
