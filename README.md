@@ -7,7 +7,7 @@
 - 🎮 I'm currently playing *King of Glory*
 - 📫 How to reach me: wyngbh@gmail.com
 
-### Write often and think often
+### Often write and think more
 
 | I/O operation             | CPU ticks    |
 | --------------------- | ----------------- |
