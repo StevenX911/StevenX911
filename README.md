@@ -7,17 +7,6 @@
 - 🎮 I'm currently playing *King of Glory*
 - 📫 How to reach me: wyngbh@gmail.com
 
-### Often write and think more
-
-| I/O operation             | CPU ticks    |
-| --------------------- | ----------------- |
-| CPU register            | 3 ticks           |
-| L1 Cache             | 8 ticks           |
-| L2 Cache            | 12 ticks          |
-| RAM                | 150 ticks         |
-| Disk                 | 30,000,000 ticks  |
-| Network          | 250,000,000 ticks |
-
 <!--
 ### Hi I'm Steven-风清洋 👋
 
