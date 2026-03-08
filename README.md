@@ -1,7 +1,7 @@
 ### Steven Wang 👋
 
 - 🔭 I’m currently working on ByteDance Inc.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning NLP/ML/DL/LLM
 - 🎮 I'm currently playing *King of Glory*
 - 📫 How to reach me: wyngbh@gmail.com
 
